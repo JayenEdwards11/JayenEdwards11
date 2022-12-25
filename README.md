@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayenEdwards11
-- 👀 I’m interested in Emedded C, Qauntum Computing, Machine Learning, and Robotics
+- 👀 I’m interested in Emedded C, Quantum Computing, Machine Learning, and Robotics
 
 
 <!---
