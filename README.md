@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayenEdwards11, i have an MSc in Robotics & Compuation 
-- 👀 I’m interested in Emedded C, Quantum Computing, Machine Learning, and Robotics
+- 👀 I’m interested in Emedded C, Quantum Computing, Machine Learning/Vision, and Robotics (ROS)
 
 
 <!---
